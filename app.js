@@ -20,3 +20,6 @@ let numero2 = parseInt(prompt("digite outro numero"));
 let soma = numero1 + numero2;
 alert(`E a soma deles sao ${soma}`);
 }
+
+
+
